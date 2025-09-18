@@ -6,7 +6,7 @@
 
 - Born in 1968, married, two dogs, one horse.
 - Held various roles: System Engineer, Technical Lead, Team Lead, Product Owner, Team Coach, Trainer.
-- Written a book, run a blog and a podcast.
+- Written a book, run a blog and two podcasts.
 - Given talks and workshops at events.
 - Previous experience in banking, insurance, and service providers.
 
